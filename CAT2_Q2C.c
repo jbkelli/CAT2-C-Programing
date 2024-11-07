@@ -1,3 +1,9 @@
+//2d array
+/*
+Author: Mwangi Alvin Maina
+Date: 7/11/2024
+Registration number: CT102/G/24287/24
+*/
 #include<stdio.h>
 int main() {
 	int p,q;
